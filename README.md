@@ -1,4 +1,4 @@
-# Hi, I’m [@SubhrajitSain](https://github.com/SubhrajitSain)!
+# Hi, I’m [@SubhrajitSain](https://github.com/SubhrajitSain), aka [ANormalWintrovert](https://www.youtube.com/@ANormalWintrovert)!
 ## About Me
 1. I’m interested in computers and languages like QBASIC, Java, Python and Batch.
 2. I’m currently learning Java and Python.
