@@ -1,6 +1,6 @@
 # Hi, I’m [@SubhrajitSain](https://github.com/SubhrajitSain), aka [ANormalWintrovert](https://www.youtube.com/@ANormalWintrovert)!
 
-## Portfolio: [Link 1](https://subhrajitsain.pythonanywhere.com) | [Link 2](https://anw.is-a.dev)
+## Portfolio: [Click!](https://anw.is-a.dev)
 
 ## About Me
 1. I’m interested in computers and languages like QBASIC, Java, Python and Batch.
