@@ -1,4 +1,4 @@
-# Hi, I’m [@SubhrajitSain](https://github.com/SubhrajitSain), aka [ANormalWintrovert](https://www.youtube.com/@ANormalWintrovert)!
+# 👋 Hi, I am ANW.
 
 ## Portfolio: [Click!](https://anw.is-a.dev)
 
