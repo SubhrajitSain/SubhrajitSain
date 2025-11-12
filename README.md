@@ -11,6 +11,6 @@
 ## Contact Info:
 - Email: [subhrajitsain34@gmail.com](mailto:subhrajitsain34@gmail.com) | NEW: ✨ **[mail@anw.is-a.dev](mailto:mail@anw.is-a.dev)** ✨
 - YouTube: [@ANormalWintrovert](https://www.youtube.com/@ANormalWintrovert)
-- Discord: [ANW's Basement](https://discord.gg/BgZCKGn6fk)
-- My website: [ANW.is-a.dev](https://anw.is-a.dev)
+- Discord: [ANW's Drawer](https://discord.gg/BgZCKGn6fk)
+- My website: [anw.is-a.dev](https://anw.is-a.dev)
 - Twitter/X: [subhrajitsain](https://x.com/subhrajitsain)
