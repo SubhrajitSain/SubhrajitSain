@@ -1,6 +1,7 @@
 # 👋 Hi, I am ANW.
 
 ## Portfolio: [Click!](https://anw.is-a.dev)
+## Contributors: Thank you to `furstxd` for creating a Pull Request to that repo
 
 ## About Me
 1. I’m interested in computers and languages like QBASIC, Java, Python and Batch.
