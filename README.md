@@ -12,6 +12,6 @@
 ## Contact Info:
 - Email: [mail@anw.is-a.dev](mailto:mail@anw.is-a.dev)
 - YouTube: [@ANormalWintrovert](https://www.youtube.com/@ANormalWintrovert)
-- Discord: [MrrpOS™ Community](https://discord.gg/BgZCKGn6fk)
+- Discord: [MrrpOS™ Labs](https://discord.gg/BgZCKGn6fk)
 - My website: [anw.is-a.dev](https://anw.is-a.dev)
 - Twitter/X: [subhrajitsain](https://x.com/subhrajitsain)
